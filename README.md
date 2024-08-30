@@ -1,5 +1,6 @@
-#Kenya YouTube Channels Analysis
-n\Overview
+Kenya YouTube Channels Analysis
+
+Overview
 
 This project involves analyzing YouTube channels in Kenya to understand trends in video content, subscriber growth, and engagement metrics. By leveraging the YouTube Data API, Python, and various data analysis tools, this project aims to provide valuable insights into the performance of Kenyan YouTube channels.
 
