@@ -35,6 +35,7 @@ Setup and Installation
     Clone the Repository
 
 git clone https://github.com/bellonbits/YouTubeChannel-Analysis.git
+
 cd YouTubeChannel-Analysis
 
 Install Dependencies
