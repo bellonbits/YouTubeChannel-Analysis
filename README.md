@@ -1,7 +1,8 @@
-##Kenya YouTube Channels Analysis
-Overview
+#Kenya YouTube Channels Analysis
+n\Overview
 
 This project involves analyzing YouTube channels in Kenya to understand trends in video content, subscriber growth, and engagement metrics. By leveraging the YouTube Data API, Python, and various data analysis tools, this project aims to provide valuable insights into the performance of Kenyan YouTube channels.
+
 Tools and Technologies
 
     Python: The primary programming language used for data analysis and API interactions.
@@ -15,18 +16,17 @@ Tools and Technologies
 Project Structure
 
 The project is organized as follows:
+Youtube-channel-Analysis/: Root directory of the project
 
-   Kenya_YouTube_Analysis/
-│
-├── data/               # Directory to store raw and processed data
-│   └── kenya_channels.csv
-├── notebooks/          # Jupyter notebooks for exploration and analysis
-│   └── Youtube-channel Analysis.ipynb
-├── └── dashboard.py
-├── .env                # Environment variables, including API key
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── LICENSE             # License file
+    data/: Directory to store raw and processed data
+        kenya_channels.csv: CSV file with data on Kenyan YouTube channels
+    notebooks/: Jupyter notebooks for exploration and analysis
+        Youtube-channel-Analysis.ipynb: Notebook for data analysis and visualization
+    dashboard.py: Streamlit application for creating an interactive dashboard
+    .env: Environment file containing API keys and other environment variables
+    requirements.txt: File listing Python dependencies required for the project
+    README.md: Project documentation file
+    LICENSE: License file for the project
 
 
 Setup and Installation
